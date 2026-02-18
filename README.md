@@ -24,8 +24,5 @@ Exploring tech with curiosity 🚀</br>
 ![Streak stats](https://nirzak-streak-stats.vercel.app/?user=ishaandindwar&theme=dark&hide_border=false)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaandindwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![Profile visits](https://visitcount.itsvg.in/api?id=ishaandindwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
